@@ -1,6 +1,6 @@
 # Site Help Tech
 
-image.png
+![image](https://github.com/CaioCezarBezerra/Help-Tech-main/assets/99421370/ea60b635-5972-4d08-b92d-6f49fc6b5b76)
 
 
 #Site Criado Pelos Intergrantes:
